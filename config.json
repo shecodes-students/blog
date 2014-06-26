@@ -1,6 +1,7 @@
 {
   "locals": {
     "url": "http://now.she.codes/blog",
+    "baseUrl": "/blog",
     "name": "she blogs",
     "owner": "she.codes",
     "description": "she.codes' official blog"
