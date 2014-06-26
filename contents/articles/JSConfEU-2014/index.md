@@ -1,5 +1,5 @@
 ---
-title: she.coders get exclusive ticket for JSConfEU 2014!
+title: she.coders get exclusive tickets for JSConfEU 2014!
 author: jan
 date: 2014-06-26
 template: article.jade
