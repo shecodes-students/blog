@@ -41,14 +41,14 @@
       <div class="content-wrap">
         <div id="flattr_button"></div>
         <script>
-          $(function() {
+          window.onload = function() {
             FlattrLoader.render({
                 'uid': 'shecodes',
                 'url': document.location.href,
                 'title': page.title,
                 'description': 'blog article'
             }, 'flattr_button', 'replace');
-          });
+          };
         </script>
         <div class="nav"><a href="/blog">« front page</a></div>
         <section class="about"><p>This blog is written by Olena Levitsky and Jan Bölsche.</p>
