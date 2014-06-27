@@ -9,6 +9,7 @@
     <link rel="alternate" href="/blog/feed.xml" type="application/rss+xml" title="she.codes' official blog">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic|Anonymous+Pro:400,700,400italic,700italic|Merriweather:400,700,300">
     <link rel="stylesheet" href="/blog/css/main.css">
+    <script src="http://api.flattr.com/js/0.6/load.js?mode=manual"></script>
   </head>
   <body class="article-detail">
     <header class="header">
@@ -38,6 +39,17 @@
     </div>
     <footer>
       <div class="content-wrap">
+        <div id="flattr_button"></div>
+        <script>
+          $(function() {
+            FlattrLoader.render({
+                'uid': 'shecodes',
+                'url': document.location.href
+                'title': page.title,
+                'description': 'blog article'
+            }, 'flattr_button', 'replace');
+          });
+        </script>
         <div class="nav"><a href="/blog">« front page</a></div>
         <section class="about"><p>This blog is written by Olena Levitsky and Jan Bölsche.</p>
 <p>Learn more about she.codes on <a href="http://now.she.codes/">the web</a>, <a href="http://twitter.com/shecodes_">twitter</a> and <a href="http://facebook.com/shecodes">facbook</a>.</p>
