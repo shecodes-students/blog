@@ -9,17 +9,6 @@
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>she.coders get exclusive tickets for JSConfEU 2014!</title>
-      <link>http://now.she.codes/blog/articles/JSConfEU-2014/</link>
-      <pubDate>Thu, 26 Jun 2014 02:00:00 +0200</pubDate>
-      <guid isPermaLink="true">http://now.she.codes/blog/articles/JSConfEU-2014/</guid>
-      <author></author>
-      <description>&lt;p&gt;JavaScript is an exteremly versatile language and our language of choice when it comes to teaching programming. Euorpe’s JavaScript enthusiasts meet each year at JSConfEU in Berlin. It is the best event on the continent to learn about new developments and to celebrate  great parties with the community.&lt;/p&gt;
-&lt;p&gt;JSConfEU’s organizers have always been very committed to working towards better gender parity among speakers at their events. Due to its vast popularity, conference tickets are being sold out within minutes after releasing a new block. This unfortunately works against diversity among attendees. This year, JSConfEU has asked she.codes to help with making more tickets available to women and assigned us an exclusive block of tickets!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>On École 42, Teacherless Teaching and Elitism</title>
       <link>http://now.she.codes/blog/articles/ecole-42/</link>
       <pubDate>Thu, 26 Jun 2014 02:00:00 +0200</pubDate>
@@ -34,8 +23,19 @@
 &lt;p&gt;A virtual learning environment cannot deliver the ‘human touch’ of sharing a physical space with all the other students, but it has unique advantages as well. Our platform’s matchmaking feature selects students with similar skill levels for a remote pair programming session. The flow of knowledge between two persons is more effective when they are not intimidated by the other one’s superiority. The result of this collaboration then is reviewed by more experienced students who have a broader understanding and the original team can take their project to the next level.&lt;/p&gt;
 &lt;p&gt;The larger the pool of students is, the better this will work. While École 42 has to set hard milits on how many students they can accept and therefor has to filter out everyone but the most experiened and talented appicants, she.codes’ community benefits from each and every new student. Only this way, we can stay true to our mission.&lt;/p&gt;
 &lt;p&gt;Nicolas Sadirac, École 42’s director, mentions that prestigious universities already expressed interest in the school’s approach. But what will universities provide if students take their knowledge from the Internet, work on their own project ideas and learn from each other rather than from teachers? I can’t think of much more than the classroom.&lt;/p&gt;
-&lt;p&gt;The fact that many of today’s most successful software developers do not have academic degrees shows that universities fail to deliver what the industry demands for quite a while now. Technology and also methodology change too fast, we cannot expect teachers that ended their education a decade ago to successfully deliver to students what is relevant to the industry today. We need peer-to-peer learning and we need models that scale and are inclusive rather than elite.&lt;/p&gt;
+&lt;p&gt;The fact that many of today’s most successful software developers do not have academic degrees shows that universities fail to deliver what the industry demands for quite a while now. Technology and also methodology change too fast, we cannot expect teachers that ended their education a decade ago to successfully deliver to students what is relevant to the industry today. We need peer-to-peer learning and we need models that scale and that are inclusive instead of elite.&lt;/p&gt;
 &lt;p&gt;And classrooms? We can do without them.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>she.coders get exclusive tickets for JSConfEU 2014!</title>
+      <link>http://now.she.codes/blog/articles/JSConfEU-2014/</link>
+      <pubDate>Thu, 26 Jun 2014 02:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://now.she.codes/blog/articles/JSConfEU-2014/</guid>
+      <author></author>
+      <description>&lt;p&gt;JavaScript is an exteremly versatile language and our language of choice when it comes to teaching programming. Euorpe’s JavaScript enthusiasts meet each year at JSConfEU in Berlin. It is the best event on the continent to learn about new developments and to celebrate  great parties with the community.&lt;/p&gt;
+&lt;p&gt;JSConfEU’s organizers have always been very committed to working towards better gender parity among speakers at their events. Due to its vast popularity, conference tickets are being sold out within minutes after releasing a new block. This unfortunately works against diversity among attendees. This year, JSConfEU has asked she.codes to help with making more tickets available to women and assigned us an exclusive block of tickets!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
