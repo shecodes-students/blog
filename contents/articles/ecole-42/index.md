@@ -22,6 +22,6 @@ The larger the pool of students is, the better this will work. While École 42 h
 
 Nicolas Sadirac, École 42's director, mentions that prestigious universities have already expressed interest in the school’s approach, but what will universities provide if students take their knowledge from the Internet, work on their own project ideas, and learn from each other rather than from teachers? I can't think of much more than the classroom.
 
-The fact that many of today's most successful software developers do not have academic degrees shows that universities have failed to deliver what the industry demands for quite a while now. Technology and methodology change too fast - we cannot expect teachers that ended their education a decade ago to successfully deliver to students what is relevant to the industry today. We need peer-to-peer learning and we need models that scale and that are inclusive instead of elitist.
+Many of today's most successful software developers are self-taught and do not have academic degrees. Universities struggle to deliver what the industry demands for quite a while now. Technology and methodology change too fast - we cannot expect teachers that ended their education decades ago to successfully deliver to students what is relevant to the software industry today. We need peer-to-peer learning and we need models that scale and that are inclusive instead of elitist.
 
 And classrooms? We can do without them.
