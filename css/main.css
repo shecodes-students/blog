@@ -11,6 +11,11 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+header a {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
 .content-wrap {
   width: 34em;
   margin: 0 auto;
