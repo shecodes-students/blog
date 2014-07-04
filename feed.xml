@@ -5,9 +5,22 @@
     <atom:link href="http://now.she.codes/blog/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://now.she.codes/blog</link>
     <description>she.codes' official blog</description>
-    <pubDate>Fri, 27 Jun 2014 02:00:00 +0200</pubDate>
+    <pubDate>Thu, 03 Jul 2014 02:00:00 +0200</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>she.coders get exclusive tickets for JSConfEU 2014!</title>
+      <link>http://now.she.codes/blog/articles/jsconfeu2014/</link>
+      <pubDate>Thu, 03 Jul 2014 02:00:00 +0200</pubDate>
+      <guid isPermaLink="true">http://now.she.codes/blog/articles/jsconfeu2014/</guid>
+      <author></author>
+      <description>&lt;p&gt;JavaScript is an extremely versatile language, and it is our language of choice when it comes to teaching programming. Europe’s JavaScript enthusiasts meet each year at JSConfEU in Berlin. It is the best event on the continent to learn about new developments and to celebrate  great parties with the community.&lt;/p&gt;
+&lt;p&gt;JSConfEU’s organizers have always been very committed to working towards better gender parity among speakers at their events. Due to its vast popularity, conference tickets are being sold out within minutes after releasing a new block. This unfortunately works against diversity among attendees. &lt;/p&gt;
+&lt;p&gt;This year, the organisers of JSConfEU are working even harder to promote diversity in technology, and they have extended a special invitation to she.codes to help with making more tickets available to women by assigning us an exclusive block of tickets! While the tickets are the standard price, she.codes subscribers will get first dibs before they are released back to the general public. &lt;/p&gt;
+&lt;p&gt;At 16:00 (GMT) on Monday 7th June, she.codes will make this block available to members of our mailing list, giving subscribers the opportunity to attend Europe’s premier JavaScript conference. If you haven’t already signed up to the mailing list, you can do so here [&lt;a href=&quot;http://she.codes#makeithappen-a&quot;&gt;http://she.codes#makeithappen-a&lt;/a&gt;]. And even if you can’t attend the conference, by signing up for our mailing list, you will receive the latest updates on developments at she.codes! &lt;/p&gt;
+&lt;p&gt;We hope that through this partnership with JSConfEU, we can help achieve a wider, more diverse audience in September!&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>On École 42, Teacherless Teaching and Elitism</title>
       <link>http://now.she.codes/blog/articles/ecole-42/</link>
