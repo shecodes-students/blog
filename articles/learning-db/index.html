@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width">
-    <title>she blogs
+    <title>A Package Manager For The Brain - she blogs
     </title>
     <link rel="alternate" href="/blog/feed.xml" type="application/rss+xml" title="she.codes' official blog">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic|Anonymous+Pro:400,700,400italic,700italic|Merriweather:400,700,300">
@@ -26,23 +26,19 @@
       ga('send','pageview');
       
     </script>
+    <script src="http://api.flattr.com/js/0.6/load.js?mode=manual"></script>
   </head>
-  <body></body>
+  <body class="article-detail"></body>
   <header class="header"><a href="http://now.she.codes/">she.codes</a>
     <div class="content-wrap">
-      <div class="logo">
-        <h1><a href="/blog">she blogs</a></h1>
-        <p class="description">she.codes' official blog</p>
-      </div>
+      <h1>A Package Manager For The Brain</h1>
+      <p class="author">Written by <span class="author"><a href="mailto:jan@lagomorph.de">Jan Bölsche</a></span> on July 22nd 2014
+      </p>
     </div>
   </header>
   <div id="content">
     <div class="content-wrap">
-      <article class="article intro">
-        <header>
-          <p class="date"><span>July 22nd 2014</span></p>
-          <h2><a href="/blog/articles/learning-db/">A Package Manager For The Brain</a></h2>
-        </header>
+      <article class="article">
         <section class="content"><p>Our mission is to teach programming to women of all backgrounds, incuding those with little or no prior exposure to the field of software development and the inner workings of operating systems or&nbsp;hardware.</p>
 <p>The Internet offers a rich variety of learning resources like screencasts, blog articles, recordings of conference talks and  educational games. Universities started to open up their educational resources to the public, the idea of open licenses is spreading from software to the educational&nbsp;sector.</p>
 <p>It was never easier to teach yourself how to program, snd it never made more sense economically to teach yourself how to program, the software idustry is getting more and more desperate for new&nbsp;talents.</p>
@@ -57,37 +53,24 @@
 <p>It is not hard to replace ‘computer’ by ‘human’ and ‘software package’ by ‘education resource’. It is funny that we humans came up with a sophisticated way to add new abilities to machines, yet when it comes to do the same for ourselves, we pretty much do the same as a thousand years ago. Let’s fix&nbsp;that!</p>
 <p>A couple of days ago on the Open Knowledge Festival 2014 in Berlin, I was lucky enough to run into <a href="http://boazsender.com/">Boaz Sender</a>, <span class="caps">CEO</span> of Bocoup, a company with the mission “to move the Open Web forward through education”. Like us, they are thinking about a common format for Open Education Resources (OER) and have a strong focus on modern web technologies. A shared, open data format for learning resources would enable us to add the missing meta data to existing resources, turn unstructured learning material into well-defined educational packages that declare their dependencies and announce what they provide in machine-readable form. With this meta-data stored in an open database, maintained by the community, we would be able to implement <em>the package manager for the brain</em>, a tool that not only can assemble reading lists that take a student from her individual learning stage to whereever she wants to go, choosing the most efficient path for her, tt also will be able to predict frustration points in manually assembled curricula, it will find gaps, concepts that are used that never were introduced, it will serve as a debugging tool for learning&nbsp;programs.</p>
 <p>We figured out an efficient way to teach our machines new tricks decades ago. Now it is time to make these ideas accessible for education to help humans to navigate the vast universe of free and open education resources and learn more&nbsp;effectively.</p>
-
-        </section>
-      </article>
-      <article class="article intro">
-        <header>
-          <p class="date"><span>July 3rd 2014</span></p>
-          <h2><a href="/blog/articles/jsconfeu2014/">she.coders get exclusive tickets for JSConfEU 2014!</a></h2>
-        </header>
-        <section class="content"><p>JavaScript is an extremely versatile language, and it is our language of choice when it comes to teaching programming. Europe’s JavaScript enthusiasts meet each year at JSConfEU in Berlin. It is the <a href="http://2014.jsconf.eu/why/">best event on the continent</a> to learn about new developments and to celebrate  great parties with the&nbsp;community.</p>
-<p>JSConfEU’s organizers have always been very committed to working towards better gender parity among speakers at their events. Due to its vast popularity, conference tickets are being sold out within minutes after releasing a new block. This unfortunately works against diversity among&nbsp;attendees. </p>
-<p>This year, the organisers of JSConfEU are working even harder to promote diversity in technology, and they have extended a special invitation to she.codes to help with making more tickets available to women by assigning us an exclusive block of&nbsp;tickets!
-
-          <p class="more"><a href="/blog/articles/jsconfeu2014/">more</a></p>
-        </section>
-      </article>
-      <article class="article intro">
-        <header>
-          <p class="date"><span>June 27th 2014</span></p>
-          <h2><a href="/blog/articles/ecole-42/">On École 42, Teacherless Teaching and Elitism</a></h2>
-        </header>
-        <section class="content"><p><a href="https://twitter.com/kathrinpassig">Kathrin Passig</a> pointed me to an interesting <a href="http://venturebeat.com/2014/06/13/this-french-tech-school-has-no-teachers-no-books-no-tuition-and-it-could-change-everything/">article about École 42</a>. It may be a bit silly to compare this 70-million-euro venture to our teeny weeny organisation, but I like to do silly things at times. There are a lot of similarities between their approach and what we plan to do at <a href="http://she.codes/">she.codes</a>, and one key&nbsp;difference.
-
-          <p class="more"><a href="/blog/articles/ecole-42/">more</a></p>
-        </section>
+</section>
       </article>
     </div>
   </div>
   <footer>
     <div class="content-wrap">
-      <div class="nav"><a href="/blog/archive.html">« Archives</a>
-      </div>
+      <div id="flattr_button"></div>
+      <script>
+        window.onload = function() {
+          FlattrLoader.render({
+              'uid': 'shecodes',
+              'url': document.location.href,
+              'title': document.title,
+              'description': 'blog article'
+          }, 'flattr_button', 'replace');
+        };
+      </script>
+      <div class="nav"><a href="/blog">« front page</a></div>
       <section class="about"><p>This blog is written by Olena Levitsky and Jan Bölsche.</p>
 <p>Learn more about she.codes on <a href="http://now.she.codes/">the web</a>, <a href="http://twitter.com/shecodes_">twitter</a> and <a href="http://facebook.com/shecodes">facbook</a>.</p>
 <p>Support us via <a href="https://flattr.com/thing/3050734/she-codes">Flattr</a>, <a href="https://www.gittip.com/shecodes_/">Gittip</a> or <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=K2JJDMUPQYJBL">PayPal</a>.</p>
